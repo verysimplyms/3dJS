@@ -1,2 +1,2 @@
-# NinJS
-Simple libraries and programs about JavaScript on NDS and 3DS
+# 3dJS
+JS interpreter for 3DS, using duktape engine.
