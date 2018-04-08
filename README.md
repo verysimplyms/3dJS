@@ -73,5 +73,5 @@
 	`applet.eShopMint` -> eShop (MINT, downloader?) applet.  
 	`applet.CirclePadCalibrator` -> CirclePad pro calibrator applet.  
 	`applet.Notepad` -> Notepad applet.   
-- You can use all of these constants and functions in JS code peocessd by 3dJS.
-- Any issues you find, please tell me about them. Enjoy your scripting!
+- You can use all of these constants and functions in JS code processd by 3dJS.
+- IMPORTANT! Any issues you find, please tell me about them. Enjoy your scripting!
