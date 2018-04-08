@@ -50,7 +50,7 @@
   `input.checkDown()` -> Returns the input when it's released.  
   `input.checkHeld()` -> Returns which input is constantly pressed.  
   `input.isPressed()` -> Returns true if there's any input pressed.  
-  `input.getTouch()` -> Returns the touch coords of the screen is touched. (otherwise 0,0?)  
+  `input.getTouch()` -> Returns the touch coords of the screen is touched: `getTouch().X`, `getTouch().Y`.  
   - Applet (contains some IDs of system applets as variables):  
   `applet.HomeMenu` -> Home menu applet.  
 	`applet.AlternateMenu` -> Alternate home menu?  
